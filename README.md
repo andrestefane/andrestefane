@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Soy Andrei Nicolás Stefanescu</h1>
-<h3 align="center">Un apasionado desarrollador de software de España</h3>
+<h3 align="center">Un apasionado desarrollador de software</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andrestefane&label=Profile%20views&color=0e75b6&style=flat" alt="andrestefane" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=andrestefane&label=Profile%20views&color=0e75b6&style=flat" alt="andrestefane" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrestefane" alt="andrestefane" /></a> </p>
+<p align="center"> <img src="https://github.com/andrestefane.png" width="200" /> </p>
 
 - 🔭 Actualmente estoy trabajando en [C++](https://github.com/andrestefane/CPPS)
 
