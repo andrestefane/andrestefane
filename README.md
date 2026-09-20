@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Andrei Nicolás Stefanescu</h1>
+<h1 align="center">Hola, Soy Andrei Nicolás Stefanescu</h1>
 <h3 align="center">Un apasionado desarrollador de software</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=andrestefane&label=Profile%20views&color=0e75b6&style=flat" alt="andrestefane" /> </p>
