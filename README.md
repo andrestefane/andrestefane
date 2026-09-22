@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=andrestefane&label=Profile%20views&color=0e75b6&style=flat" alt="andrestefane" /> </p>
 
-<p align="center"> <img src="https://github.com/andrestefane.png" width="200" /> </p>
-
 - 🔭 Actualmente estoy trabajando en [C++](https://github.com/andrestefane/CPPS)
 
 - 💬 Pregúntame sobre **C,C++,javascript...**
